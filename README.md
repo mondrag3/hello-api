@@ -1,5 +1,5 @@
-# hello-api
-basic fastapi with ping endpoint used as POC for git codespaces
+# Hello-API
+Basic fastapi with ping endpoint used as POC for git codespaces
 
 ## Run instructions
 `python app.py`
