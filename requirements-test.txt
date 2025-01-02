@@ -1,0 +1,4 @@
+-r requirements.txt  # Include all production dependencies
+pytest
+httpx
+fastapi[test]
